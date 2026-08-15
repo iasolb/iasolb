@@ -4,7 +4,7 @@
 
 ---
 
-Helping people interact with the data they create, in the way they want to.
+#### Helping people interact with the data they create, in the way they want to.
 
 Research tooling, internal software for organizations without a software team, and
 Python libraries that wrap public data APIs.
