@@ -1,4 +1,6 @@
-# Ian Solberg
+# Ian Solberg - Undergraduate @ Northeastern University - Data Science and Economics - Class of 2028
+
+### Marketing Analyst for Print Marketing Team @ Wayfair in Boston
 
 Helping people interact with the data they create, in the way they want to.
 
@@ -7,11 +9,7 @@ Python libraries that wrap public data APIs.
 
 ### → [iansolberg.us](https://iansolberg.us)
 
-Everything lives there: [the work](https://iansolberg.us/projects/),
-[writing](https://iansolberg.us/writing/),
-[background](https://iansolberg.us/about/), and
-[contact](https://iansolberg.us/#contact-heading).
-
-Most recent: [The 100% threshold](https://iasolb.substack.com/p/the-100-threshold-how-government),
-on how government debt above 100% of GDP changes the link between money supply and
-inflation.
+[projects](https://iansolberg.us/projects/)
+[writing](https://iansolberg.us/writing/)
+[background](https://iansolberg.us/about/)
+[contact](https://iansolberg.us/#contact-heading)
