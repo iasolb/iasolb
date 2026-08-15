@@ -1,4 +1,5 @@
-# Ian Solberg - Undergraduate @ Northeastern University - Data Science and Economics - Class of 2028
+# Ian Solberg 
+## Undergraduate @ Northeastern University - Data Science and Economics - Class of 2028
 
 ### Marketing Analyst for Print Marketing Team @ Wayfair in Boston
 
