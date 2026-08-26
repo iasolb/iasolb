@@ -1,18 +1,13 @@
-# Ian Solberg 
-## Undergraduate @ Northeastern University - Data Science and Economics - Class of 2028
+# Ian Solberg
 
-### Marketing Analyst for Print Marketing Team @ Wayfair in Boston
+Data science and economics at Northeastern (class of 2028), a marketing analyst
+co-op on Wayfair's print marketing team. Helping people interact with the data
+they create, in the ways they want to.
 
----
+Research tooling, internal software for organizations without a software team,
+and Python libraries over public data APIs.
 
-#### Helping people interact with the data they create, in the ways they want to.
+See [FRED_Loader](https://github.com/iasolb/FRED_Loader) and
+[Census_Loader](https://github.com/iasolb/Census_Loader).
 
-Research tooling, internal software for organizations without a software team, and
-Python libraries that wrap public data APIs.
-
-### → [iansolberg.us](https://iansolberg.us)
-
-- [projects](https://iansolberg.us/projects/)
-- [writing](https://iansolberg.us/writing/)
-- [background](https://iansolberg.us/about/)
-- [contact](https://iansolberg.us/#contact-heading)
+[iansolberg.us](https://iansolberg.us)
