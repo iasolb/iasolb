@@ -1,8 +1,7 @@
 # Ian Solberg
 
 Data science and economics at Northeastern (class of 2028), a marketing analyst
-co-op on Wayfair's print marketing team. Helping people interact with the data
-they create, in the ways they want to.
+co-op on Wayfair's print marketing team. Row column enthusiast.
 
 Research tooling, internal software for organizations without a software team,
 and Python libraries over public data APIs.
