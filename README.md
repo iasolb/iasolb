@@ -1,6 +1,6 @@
 # Ian Solberg
 
-Data Science & Economics @ Northeastern
+Data Science & Econ @ Northeastern
 
 (Co. 2028)
 
