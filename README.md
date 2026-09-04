@@ -1,8 +1,8 @@
 # Ian Solberg
 
-Data science and economics @ Northeastern (class of 2028)
+Data Science & Economics @ Northeastern (class of 2028)
 
-Print Marketing Analyst Coop @ Wayfair 
+Print Marketing Analyst @ Wayfair 
 
 Software Engineer @ Tall Poppies LLC
 
