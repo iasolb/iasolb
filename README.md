@@ -8,8 +8,10 @@ Software Engineer @ Tall Poppies LLC
 
 Row column enthusiast.
 
-Research tooling, internal software for organizations without a software team,
-and Python libraries over public data APIs.
+- Research tooling
+- ai development tooling
+- internal software for organizations without a software team
+- Python libraries over public data APIs.
 
 See [FRED_Loader](https://github.com/iasolb/FRED_Loader) and
 [Census_Loader](https://github.com/iasolb/Census_Loader).
