@@ -1,6 +1,7 @@
 # Ian Solberg
 
-Data Science & Economics @ Northeastern (class of 2028)
+Data Science & Economics @ Northeastern
+(class of 2028)
 
 Print Marketing Analyst @ Wayfair 
 
